@@ -1,5 +1,7 @@
 # 🎬 Touring Talkies
 
+[![View on Play Store](https://img.shields.io/badge/Play%20Store-Touring%20Talkies-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.touringtalkies.mobileapplication&pcampaignid=web_share)
+
 ## 📌 Overview
 **Touring Talkies** is a **B2C Offline OTT Application** designed specifically for mobile users traveling in buses. It enables passengers to watch movies, video songs, cartoons, and various entertainment content **without requiring internet access**, using a **local server setup (Raspberry Pi)** connected via Wi-Fi.
 
