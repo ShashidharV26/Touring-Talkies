@@ -1,6 +1,6 @@
 # 🎬 Touring Talkies
 
-<img src="tt_app_imgs/tt.jpg" width="220" height="88" alt="Logo"/>
+<img src="tt_app_imgs/tt.png" width="220" height="88" alt="Logo"/>
 
 [![View on Play Store](https://img.shields.io/badge/Play%20Store-Touring%20Talkies-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.touringtalkies.mobileapplication&pcampaignid=web_share)
 
