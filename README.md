@@ -1,5 +1,7 @@
 # 🎬 Touring Talkies
 
+<img src="tt_app_imgs/tt.jpg" width="220" height="88" alt="Logo"/>
+
 [![View on Play Store](https://img.shields.io/badge/Play%20Store-Touring%20Talkies-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.touringtalkies.mobileapplication&pcampaignid=web_share)
 
 ## 📌 Overview
@@ -80,6 +82,20 @@
 
 ## 📸 Screenshots
 
+<!-- Row 1: 3 images -->
+<p align="center">
+  <img src="tt_app_imgs/tt_welcome.jpg" width="220" height="400" alt="Splash Screen"/>
+  <img src="tt_app_imgs/tt_home.jpg" width="220" height="400" alt="Home Screen"/>
+  <img src="tt_app_imgs/tt_nav_drawer.jpg" width="220" height="400" alt="Menu Screen"/>
+  <img src="tt_app_imgs/tt_entatinament.jpg" width="220" height="400" alt="Entatinament Screen"/>
+</p>
+
+<!-- Row 2: 2 images -->
+<p align="center">
+  <img src="tt_app_imgs/tt_movies.jpg" width="220" height="400" alt="Movies Screen"/>
+  <img src="tt_app_imgs/tt_videoSongs.jpg" width="220" height="400" alt="Videos Screen"/>
+  <img src="tt_app_imgs/tt_cartoon.jpg" width="220" height="400" alt="Cartoons Screen"/>
+</p>
 
 
 ---
